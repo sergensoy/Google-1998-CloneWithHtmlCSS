@@ -1,0 +1,62 @@
+p{
+    margin: 0 0;
+}
+
+.d-inline{
+    display: inline;
+}
+
+.d-block{
+    display: block;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin: auto;
+}
+
+.firstBlock{
+    display: flex;
+    flex-direction: column;
+    background-color: #EEEEEE;
+}
+
+#search{
+    margin: 0 auto;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.secondBlock{
+    display: flex;
+    justify-content: space-around;
+    align-items: stretch;
+}
+
+.cornerBlock{
+    width: 37%;
+    background-color: #7EE5DA;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.middleBlock{
+    background-color: #70CCC2;
+    width: 25.7%;
+}
+
+.middleBlock a{
+    font-size: 13px;
+}
